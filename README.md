@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1qb4y1L7Sq
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 经典老框架SSM打造入门项目《在线考试系统》，包括班级模块、教师学生模块、试卷模块、试题模块、考试模块、考试回顾模块，项目编号T007。
 
